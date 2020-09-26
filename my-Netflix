@@ -77,29 +77,45 @@
 	<div>
 		<h2>Horror Movies</h2>
     </div>
-    <div class="ver">
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
+        <div class="ver">
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnzG4cOANcDYQ7nHSQtkoBXeXzAE4kz9yd3g&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlKyKn7xvX_iZMr3uHq1jsSE9E1UbbFU49VA&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://sm.mashable.com/mashable_pk/photo/default/nintchdbpict000574724602_1akh.jpg"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7wS0-mTGOyxEp6-jlWci84UUnFfYDf72idQ&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTh2kToC7zTlmaktWlorp5ktPXGiE9hmLNKcw&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsMmP7-gbBWhiaphdcUskHGzUEH3WO6sohWQ&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDFkA_bQoMW7NDVEQ0wzbAMCO1qrFKGfgRdQ&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
 	</div>
 	<div>
 		<h2>Comedy Rated</h2>
     </div>
     <div class="ver">
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-	  <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlZ1JLCkVS15BXlo7GlZvFGKEyBq8CD204ag&usqp=CAU"/>
-    </div>
+	  <img width="200" height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQA79ZP401RJznj9ozmWdDAZPXrCXdA3P0v6A&usqp=CAU"/>
+	  <img width="200" height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTS9juENXlDHXTkHNjSI0J43Wx4GQv5H_ithQ&usqp=CAU"/>
+	  <img width="200"height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFegpBG8QGGA8eFIWofT9a2m_pU66xOXjuPw&usqp=CAU"/>
+	  <img width="200" height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRH1OQ_zbaEm3dmFE13HHpP012zHQPOmCA3Mg&usqp=CAU"/>
+	  <img width="200" height="120" 
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5FGi1XxpdwwfTAjd62AivfJOK7y6afgcYPQ&usqp=CAU"/>
+	  <img width="200" height="120"
+	  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-R8LNxFcmUvFjXpEdbb-7diRqO_CJ_U8sCA&usqp=CAU"/>
+	  <img width="200" height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcixgTAt3xHtXQQSpZYQhA-8QjYq38q8HzpQ&usqp=CAU"/>
+	  <img width="200" height="120"
+	   src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyZYEMpS0uTNcoLNdy4GWV2qBRrFBULHS2Vw&usqp=CAU"/>
+	</div>
 </body>
 
 </html>
